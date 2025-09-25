@@ -81,64 +81,6 @@ const myApproach: DeveloperApproach = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirabbasvafaee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirabbasvafaee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Recent Projects & Contributions
-
-### 🔥 Featured Projects
-- **Enterprise Microservices Platform** - Scalable, event-driven architecture
-- **Security-First Web Application** - OWASP compliant with comprehensive testing
-- **Developer Tools Suite** - Productivity tools for engineering teams
-- **Real-time Analytics Dashboard** - High-performance data visualization
-
-### 📈 Open Source Contributions
-- Active contributor to React ecosystem
-- Security-focused code reviews and improvements
-- Documentation and best practices advocate
-- Community mentor and knowledge sharer
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Current Focus] --> B[Advanced Architecture Patterns]
-    A --> C[Security Excellence]
-    A --> D[Team Mentoring]
-    A --> E[Performance Optimization]
-    
-    B --> B1[Event-Driven Architecture]
-    B --> B2[Microservices Design]
-    B --> B3[Clean Architecture]
-    
-    C --> C1[OWASP Compliance]
-    C --> C2[Zero-Trust Security]
-    C --> C3[Secure Coding Practices]
-    
-    D --> D1[Code Review Excellence]
-    D --> D2[Knowledge Transfer]
-    D --> D3[Best Practices]
-    
-    E --> E1[Database Optimization]
-    E --> E2[Caching Strategies]
-    E --> E3[Scalability Patterns]
-```
-
-</div>
-
----
-
 ## 💡 Fun Facts
 
 - 🎯 **Code Quality Obsessed**: I believe every line of code should tell a story
@@ -158,14 +100,6 @@ graph TD
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirabbasvafaee@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://amirabbasvafaee.dev)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirabbasvafaee&style=for-the-badge&color=6366F1" alt="Profile Views" />
-  
-  **"Building the future, one commit at a time"** 🚀
 </div>
 
 ---
